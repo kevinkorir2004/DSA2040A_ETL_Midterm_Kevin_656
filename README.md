@@ -48,7 +48,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
 
 ##  4. How to Run the Project
 
-```bash
+``bash
 # 1. Clone the repository
 git clone https://github.com/kevinkorir2004/DSA2040A_ETL_Midterm_Kevin_656.git
 cd DSA2040A_ETL_Midterm_Kevin_656
